@@ -1,0 +1,10 @@
+네이버웹툰 Business S&P 지원용 두 번째 포트폴리오
+
+1) 기존에 공개용 편집을 끝낸 포트폴리오 폴더를 준비하세요.
+2) 01_COPY_APPROVED_FILES.bat 를 더블클릭하고 기존 사이트의 폴더를 선택하세요.
+3) 새 사이트 폴더의 assets/work에 실제 가공 완료 작업물 20개가 복사됩니다.
+4) 새 폴더의 index.html을 열어 MAIN, CAREER, PROJECTS, CONTACT를 확인하세요.
+5) GitHub에서 새 저장소(jinhyun-business-strategy)를 만들고 이 폴더 내용을 업로드하세요. 기존 사이트 저장소는 수정하지 마세요.
+6) 새 저장소 Settings > Pages > Source: GitHub Actions, Actions > Publish Portfolio > Run workflow.
+
+반드시 README.md의 자세한 설명을 먼저 확인하세요.

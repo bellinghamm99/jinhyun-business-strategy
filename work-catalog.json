@@ -1,0 +1,274 @@
+{
+  "night-crows": [
+    {
+      "slug": "nft-staking",
+      "title": "NFT Staking Web Game — 시스템 기획",
+      "subtitle": "게임 규칙·보상 모델·시뮬레이션",
+      "category": "PRODUCT DESIGN",
+      "overview": "NFT 스테이킹 서비스의 참여 조건과 보상 계산식, 시즌별 운영 구조를 기획한 문서입니다. 분석·시뮬레이션을 개발 협업 가능한 서비스 요건으로 연결한 사례입니다.",
+      "source_filename": "NFT 스테이킹 기획_260204_최종.xlsx",
+      "url": "assets/work/night-crows/nft-staking.xlsx",
+      "preview": "assets/previews/night-crows-nft-staking.png",
+      "type": "XLSX · 실제 작업물",
+      "order": 2,
+      "hero": true
+    },
+    {
+      "slug": "season-s3",
+      "title": "시즌 3 · 뿔피리 장비 기획",
+      "subtitle": "시즌 장비 구조와 효과",
+      "category": "LIVE SERVICE",
+      "overview": "시즌 장비의 도입 목적, 효과와 제작·성장 구조를 정리한 기획서입니다. 시즌형 콘텐츠를 어떤 기준으로 설계했는지 보여줍니다.",
+      "source_filename": "NCGL_글로벌_라비움장비_시즌3 (뿔피리).xlsx",
+      "url": "assets/work/night-crows/season-s3.xlsx",
+      "preview": "assets/previews/night-crows-season-s3.png",
+      "type": "XLSX · 실제 작업물",
+      "order": 32,
+      "hero": false
+    },
+    {
+      "slug": "crow-ravn-analysis",
+      "title": "CROW × RAVN 상관관계 분석",
+      "subtitle": "토큰 경제·민팅 현상 분석",
+      "category": "DATA ANALYSIS",
+      "overview": "CROW 민팅과 RAVN 등 토큰 경제 지표의 시계열 움직임을 비교해 가설을 세우고 관계를 검토했습니다. 상관관계가 인과관계를 뜻하지 않는다는 분석상의 한계도 함께 고려했습니다.",
+      "source_filename": "NCGL_CROW 민팅과 RAVN 상관관계(1).xlsx",
+      "url": "assets/work/night-crows/crow-ravn-analysis.xlsx",
+      "preview": "assets/previews/night-crows-crow-ravn-analysis.png",
+      "type": "XLSX · 실제 작업물",
+      "order": 1,
+      "hero": true
+    },
+    {
+      "slug": "season-s6",
+      "title": "시즌 6 · 뿔피리 장비 기획",
+      "subtitle": "시즌 간 밸런스·성장 검토",
+      "category": "LIVE SERVICE",
+      "overview": "누적 시즌 운영 경험을 바탕으로 성장·승급 구조와 밸런스를 검토한 장비 기획서입니다. 시즌 간 설계의 연속성을 보여주기 위해 시즌 3 자료와 함께 선정했습니다.",
+      "source_filename": "NCGL_글로벌_라비움장비_시즌6 (뿔피리).xlsx",
+      "url": "assets/work/night-crows/season-s6.xlsx",
+      "preview": "assets/previews/night-crows-season-s6.png",
+      "type": "XLSX · 실제 작업물",
+      "order": 34,
+      "hero": false
+    },
+    {
+      "slug": "mir4-ccu-review",
+      "title": "MIR4 CCU 및 작업장 생태계 비교",
+      "subtitle": "MIR4 · 나이트 크로우 비교 분석",
+      "category": "DATA & ECONOMY RESEARCH",
+      "overview": "MIR4와 NIGHT CROWS의 토크노믹스, 이용자 활동 및 현금화 진입장벽을 비교했습니다. 타 게임의 지속 이용 구조에서 사업적 시사점을 도출한 리서치입니다.",
+      "source_filename": "[블록체인] 미르 4 동접자 분석 문서_v2.pdf",
+      "url": "assets/work/night-crows/mir4-ccu-review.pdf",
+      "preview": "assets/previews/night-crows-mir4-ccu-review.png",
+      "type": "PDF · 실제 작업물",
+      "order": 35,
+      "hero": false
+    }
+  ],
+  "rememento": [
+    {
+      "slug": "rememento-business",
+      "title": "Game Business & Publishing Deck",
+      "subtitle": "사업 소개 · BM · 서비스 방향",
+      "category": "BUSINESS STRATEGY",
+      "overview": "게임의 시장 포지셔닝, BM과 출시 방향을 정리한 사업 소개 자료입니다. 서비스 전략 및 이해관계자 커뮤니케이션에 활용되는 형태를 보여줍니다.",
+      "source_filename": "리메멘토 - 하얀 그림자 소개서_250114_마스킹(1).pdf",
+      "url": "assets/work/rememento/rememento-business.pdf",
+      "preview": "assets/previews/rememento-rememento-business.png",
+      "type": "PDF · 실제 작업물",
+      "order": 2,
+      "hero": true
+    },
+    {
+      "slug": "agf-booth",
+      "title": "AGF 2024 — 전시 부스 시안",
+      "subtitle": "오프라인 행사 공간 기획",
+      "category": "EVENT PLANNING",
+      "overview": "AGF 2024의 전시 공간 구성과 게임 브랜드 연출을 검토한 결과물입니다. 행사 기획과 제작사·내부 조직 사이의 커뮤니케이션 경험을 보여줍니다.",
+      "source_filename": "6-1. 최종 전시부스 시안(1).pdf",
+      "url": "assets/work/rememento/agf-booth.pdf",
+      "preview": "assets/previews/rememento-agf-booth.png",
+      "type": "PDF · 실제 작업물",
+      "order": 32,
+      "hero": false
+    },
+    {
+      "slug": "cbt-voc",
+      "title": "CBT 고객문의·커뮤니티 리포트",
+      "subtitle": "VOC 분류 · 이슈 모니터링",
+      "category": "LIVE OPERATIONS",
+      "overview": "CBT 이용자 문의 및 커뮤니티 반응을 분류해 주요 쟁점과 대응 필요 영역을 파악한 운영 분석 자료입니다.",
+      "source_filename": "[사업본부] 리메멘토-하얀그림자 고객문의 및 커뮤니티 동향 리포트.xlsx",
+      "url": "assets/work/rememento/cbt-voc.xlsx",
+      "preview": "assets/previews/rememento-cbt-voc.png",
+      "type": "XLSX · 실제 작업물",
+      "order": 1,
+      "hero": true
+    }
+  ],
+  "wemix": [
+    {
+      "slug": "social-feed-proposal",
+      "title": "플랫폼 SNS · Social Feed 기획안",
+      "subtitle": "피드 기능 설계·단계별 개발 제안",
+      "category": "PRODUCT PROPOSAL",
+      "overview": "게이머와 Web3 이용자의 플랫폼 참여를 목표로 피드형 SNS 기능의 사용 시나리오, 벤치마크, 개발 우선순위를 제안했습니다. 제안서이며 실제 출시·성과를 의미하지는 않습니다.",
+      "source_filename": "플랫폼 내 SNS 기획안(1).pdf",
+      "url": "assets/work/wemix/social-feed-proposal.pdf",
+      "preview": "assets/previews/wemix-social-feed-proposal.png",
+      "type": "PDF · 실제 작업물",
+      "order": 1,
+      "hero": true
+    },
+    {
+      "slug": "world-at-risk-review",
+      "title": "World at Risk — 게임 사업성 리뷰",
+      "subtitle": "게임 검토 및 온보딩 적합성",
+      "category": "BUSINESS EVALUATION",
+      "overview": "파트너 게임의 콘텐츠 구조, BM, 테스트 지표 및 경쟁 우위를 검토해 온보딩 적합성과 개선 필요 조건을 정리했습니다. 실제 온보딩 완료 사례로 표기하지 않았습니다.",
+      "source_filename": "World at Risk 리뷰_0509.pdf",
+      "url": "assets/work/wemix/world-at-risk-review.pdf",
+      "preview": "assets/previews/wemix-world-at-risk-review.png",
+      "type": "PDF · 실제 작업물",
+      "order": 2,
+      "hero": true
+    }
+  ],
+  "archeworld": [
+    {
+      "slug": "north-latam-research",
+      "title": "북미·중남미 게임 시장조사",
+      "subtitle": "권역별 게임 이용자·마케팅 조사",
+      "category": "MARKET EXPANSION",
+      "overview": "북미·중남미 시장의 이용자·플랫폼·경쟁 구도를 비교하고, 지역별 시장 진입 가설과 마케팅 방향을 정리한 신규 성장 기회 분석입니다. 당시 조사 시점의 시장 상황을 반영합니다.",
+      "source_filename": "북미·중남미 서비스 자료 조사 _221019.docx",
+      "url": "assets/work/archeworld/north-latam-research.docx",
+      "preview": "assets/previews/archeworld-north-latam-research.png",
+      "type": "DOCX · 실제 작업물",
+      "order": 1,
+      "hero": true
+    },
+    {
+      "slug": "campaign-postmortem",
+      "title": "Global Launch Campaign — Postmortem",
+      "subtitle": "런칭 캠페인 성과 분석",
+      "category": "MARKETING",
+      "overview": "글로벌 런칭 마케팅의 매체별·권역별 집행 결과를 비교하고 실행 과정과 개선점을 정리한 사후 분석입니다. 캠페인 전체의 성과를 개인 단독 성과로 표현하지 않았습니다.",
+      "source_filename": "20221005_포스트모텀.pdf",
+      "url": "assets/work/archeworld/campaign-postmortem.pdf",
+      "preview": "assets/previews/archeworld-campaign-postmortem.png",
+      "type": "PDF · 실제 작업물",
+      "order": 2,
+      "hero": true
+    },
+    {
+      "slug": "reddit-community",
+      "title": "Reddit Community — 운영 구성",
+      "subtitle": "커뮤니티 구조·운영 현황",
+      "category": "COMMUNITY STRATEGY",
+      "overview": "글로벌 유저를 위한 Reddit 커뮤니티의 구조와 운영 체계를 설계·정리한 자료입니다. 콘텐츠 분류, 가이드와 이용자 참여 동선을 보여줍니다.",
+      "source_filename": "아키월드 레딧 현황(1).pdf",
+      "url": "assets/work/archeworld/reddit-community.pdf",
+      "preview": "assets/previews/archeworld-reddit-community.png",
+      "type": "PDF · 실제 작업물",
+      "order": 33,
+      "hero": false
+    }
+  ],
+  "archeage": [
+    {
+      "slug": "twitch-drops",
+      "title": "Twitch Drops 운영 현황",
+      "subtitle": "캠페인 운영·보상 지표",
+      "category": "CAMPAIGN OPERATIONS",
+      "overview": "월별 Twitch Drops 캠페인의 보상 지급 일정과 운영 현황을 추적한 자료입니다. 콘텐츠 서비스의 참여 유도 캠페인과 운영 KPI 관리 방식을 보여줍니다.",
+      "source_filename": "트위치 드롭스 캠페인 현황 정리_2023.xlsx",
+      "url": "assets/work/archeage/twitch-drops.xlsx",
+      "preview": "assets/previews/archeage-twitch-drops.png",
+      "type": "XLSX · 실제 작업물",
+      "order": 2,
+      "hero": true
+    },
+    {
+      "slug": "vip-improvement",
+      "title": "VIP 시스템 — 개선안 제안",
+      "subtitle": "포인트·등급·보상 구조 제안",
+      "category": "BM PROPOSAL",
+      "overview": "경쟁 게임 VIP 시스템의 구조적 한계를 검토하고 플레이와 결제 경험을 반영한 포인트·등급·혜택 체계를 제안했습니다. 실제 적용이 아닌 개선 제안 자료입니다.",
+      "source_filename": "B게임 VIP 시스템 개선안제시.PNG.png",
+      "url": "assets/work/archeage/vip-improvement.png",
+      "preview": "assets/previews/archeage-vip-improvement.png",
+      "type": "PNG · 실제 작업물",
+      "order": 32,
+      "hero": false
+    },
+    {
+      "slug": "business-strategy",
+      "title": "연간 사업계획 — 전략",
+      "subtitle": "라이브 운영·업데이트 계획",
+      "category": "BUSINESS PLANNING",
+      "overview": "장기 라이브 서비스 사업의 연간 운영 방향과 업데이트·이용자 활성화 과제를 연결해 검토한 사업계획 자료입니다.",
+      "source_filename": "사업계획_전략파트.PNG(1).png",
+      "url": "assets/work/archeage/business-strategy.png",
+      "preview": "assets/previews/archeage-business-strategy.png",
+      "type": "PNG · 실제 작업물",
+      "order": 1,
+      "hero": true
+    }
+  ],
+  "business-development": [
+    {
+      "slug": "nexter-zero-pitch",
+      "title": "NEXTER ZERO — Business Pitch",
+      "subtitle": "신규 MMORPG 사업화·글로벌 출시 준비",
+      "category": "NEW BUSINESS",
+      "overview": "신규 프로젝트의 시장 경쟁력과 사업 모델, 글로벌 출시 방향을 정리한 투자·사업 협력 피칭 자료입니다. 투자 완료를 직접 증명하는 자료는 아닙니다.",
+      "source_filename": "Xsolla finding club_Project(1).pdf",
+      "url": "assets/work/business-development/nexter-zero-pitch.pdf",
+      "preview": "assets/previews/business-development-nexter-zero-pitch.png",
+      "type": "PDF · 실제 작업물",
+      "order": 1,
+      "hero": true
+    },
+    {
+      "slug": "legend-of-ymir-review",
+      "title": "Legend of YMIR — Web3 모델 리뷰",
+      "subtitle": "WEMIX 직접 활용·사업 전략",
+      "category": "COMPETITIVE RESEARCH",
+      "overview": "경쟁 Web3 MMORPG의 차별화 요소와 경제 모델을 분석해 신규 사업 및 기존 서비스에 참고할 수 있는 전략적 시사점을 정리했습니다.",
+      "source_filename": "[라이브지원실] 레전드오브이미르 게임 리뷰 문서.pdf",
+      "url": "assets/work/business-development/legend-of-ymir-review.pdf",
+      "preview": "assets/previews/business-development-legend-of-ymir-review.png",
+      "type": "PDF · 실제 작업물",
+      "order": 2,
+      "hero": true
+    },
+    {
+      "slug": "sui-chain-review",
+      "title": "SUI 체인 — 도입 타당성 검토",
+      "subtitle": "체인 특성·게임 생태계·리스크",
+      "category": "BLOCKCHAIN RESEARCH",
+      "overview": "SUI 체인의 인프라, 생태계, 경쟁 체인과 리스크를 비교했습니다. 기술 특징을 게임 서비스 적용 가능성과 연결해 평가한 자료입니다.",
+      "source_filename": "[라이브지원실] SUI 체인 리뷰 문서_250731.pdf",
+      "url": "assets/work/business-development/sui-chain-review.pdf",
+      "preview": "assets/previews/business-development-sui-chain-review.png",
+      "type": "PDF · 실제 작업물",
+      "order": 33,
+      "hero": false
+    },
+    {
+      "slug": "lord-nine-review",
+      "title": "Lord Nine — Web3 진출 전략",
+      "subtitle": "USDT 아이템 거래·온보딩 UX",
+      "category": "COMPETITIVE RESEARCH",
+      "overview": "USDT 기반 아이템 거래와 체인 추상화를 중심으로 Web2 게임의 Web3 전환 방식을 분석했습니다. 진입장벽과 게임 경험 사이의 균형을 살펴본 사례입니다.",
+      "source_filename": "[라이브지원실] 로드나인-인피니티 클래스 리뷰 문서.pdf",
+      "url": "assets/work/business-development/lord-nine-review.pdf",
+      "preview": "assets/previews/business-development-lord-nine-review.png",
+      "type": "PDF · 실제 작업물",
+      "order": 34,
+      "hero": false
+    }
+  ]
+}
