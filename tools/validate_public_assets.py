@@ -11,4 +11,4 @@ if missing:
     print('ERROR: Missing',len(missing),'required files. Copy only the approved, edited assets from the FINAL existing portfolio.')
     for x in missing:print(' -',x)
     raise SystemExit(1)
-print('OK:',len(paths),'required files exist (content approval remains the owner's responsibility).')
+print("OK:", len(paths), "required files exist (content approval remains the owner's responsibility).")
